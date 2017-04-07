@@ -1,6 +1,20 @@
+# İçindekiler
+
+* [Sistem Programlama](#sistem-programlama)
+    * UNIX ve Tarihçesi
+    * Shell'e Giriş ve örnek komutlar (who-date-ls-echo)
+
+* [Sistem Programlama Giris](./sprogramlama-1.md)
+    * UNIX Dosyalama Sistemi
+    * UNIX ve LINUX için Dosya yollari ve anlamlari
+    * UNIX Basit Komutlar (pwd-cd-touch-mv-cp-rm-mkdir)
+
+
+
 # Sistem-Programlama
 
 Bu repoda Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü 3.Sınıf; Sistem Programlama dersi dökümantasyonu bulunmaktadir. Hatalı / eksik gördüğünüz yerleri issues ile bildirebilir veya kaynağa destek olmak amacıyla direk Pull Requests atabilirsiniz.
+
 
 ## Neden UNIX?
 - UNIX türevi işletim sistemleri çok işlemcili çok pahalı makinalardan, tek işlemcili basit ve çok ucuz ev bilgisayarlarına kadar pek çok cihaz üzerinde çalışabilen esnek ve sağlamlığı çok değişik koşullarda test edilmiş sistemlerdir.
@@ -56,13 +70,4 @@ CTRL-d # Çalışan programı zorlar ve terminalden bağlantısını koparır.
     pwd:
     /Users/tolgahanuzun/Github/dersler/sistemprogramlama
 
-# Ders Başlıkları
-* [Sistem Programlama](#Sistem-Programlama)
-    * UNIX ve Taricesi
-    * Shell'e Giriş ve örnek komutlar (who-date-ls-echo)
-
-* [Sistem Programlama Giris](./sprogramlama-1.md)
-    * UNIX Dosyalama Sistemi
-    * UNIX ve LINUX için Dosya yollari ve anlamlari
-    * UNIX Basit Komutlar (pwd-cd-touch-mv-cp-rm-mkdir)
 
