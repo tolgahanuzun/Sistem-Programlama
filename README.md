@@ -4,10 +4,15 @@
     * UNIX ve Tarihçesi
     * Shell'e Giriş ve örnek komutlar (who-date-ls-echo)
 
-* [Sistem Programlama Giris](./sprogramlama-1.md)
+* [Sistem Programlama - 1](./sprogramlama-1.md)
     * UNIX Dosyalama Sistemi
     * UNIX ve LINUX için Dosya yollari ve anlamlari
     * UNIX Basit Komutlar (pwd-cd-touch-mv-cp-rm-mkdir)
+
+* [Sistem Programlama - 2](./sprogramlama-2.md)
+    * Text Editör
+    * Shell Programlama
+    * UNIX Detaylı Komutlar 
 
 
 
