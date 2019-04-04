@@ -25,7 +25,7 @@ Yukarda bulunan karakterler ile başlayan ya da içinde geçen ya da biten dosya
 - '|' = Soru isareti gibi if anlami tasir. Ancak bir harf icin degil tum kelime grubu icin gecerlidir.
 - '^' = Karet (Düzeltme İşareti) satir basindan itibaren arama yapmayi saglar.
 - '$' = Dolar isareti satirin sonunu isaret eder.
-- '\' = BackSlash Metacharacters ifadelerini aramak isteyenler icin bir kacis karakteridir.
+- '\\' = BackSlash Metacharacters ifadelerini aramak isteyenler icin bir kacis karakteridir.
 - '[]' = Köşeli parantez bir karakter dizisinde veri seçmenizi sağlar.
 - '[^]' = Köşeli parantezde koret isareti programlama dillerindeki 'not' yani degili ifadesine esittir.
 - '()' = Parantez birden fazla veriyi Metacharacters ile kontrol etmeye yarar.
@@ -33,7 +33,6 @@ Yukarda bulunan karakterler ile başlayan ya da içinde geçen ya da biten dosya
 ``` bash
 ls a.c # abc,adc,a&c vb.. 
 ls u..x # unix, unax, ussx vb.
-ls ab*c # ac, abc, abbc, c vb.
 ls ab*c # ac, abc, abbc
 ls ab?c # ac veya abc
 ls ab|cd # ab veya cd
